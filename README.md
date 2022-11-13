@@ -1,16 +1,11 @@
 # TimetablerApp
-This is part of my final research project for my degree course in Computer
-Science.
+This is a project in Computer Science.
 ## Overview
 This is an Android application represents a two-part for a software 
 system, TimetablerApp represents the client side of the
 client-server architecture. This application allows users, ie lecturers,
 students and administrators to view and register for units and view the
 timetable once it is available.
-
-## Scope
-As of version 1.0.0 the app reflects requirements and models of Catholic
-University of Eastern Africa. Future updates will be shown here.
 
 ## Features
 ## Software Architecture
